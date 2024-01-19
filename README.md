@@ -4,7 +4,7 @@
 # django-firebase-orm.
 
 Django like models for NoSQL database Firestore Integrating with
-django\'s ORM. 
+django\'s ORM.
 
 I made a few changes and improvements to suit my liking:
 
@@ -12,7 +12,7 @@ I made a few changes and improvements to suit my liking:
     of your django project to now only require that you define the
     neccessary configurations in your project\'s settings module. *Note
     that django is now an explicit dependency*
-    
+
 2.  Created a new package for this app on pypi under
     **django-firebase-orm**
 
@@ -186,9 +186,7 @@ Dependencies
 ## Building from Source for Developers
 
 ```console
-$ git clone https://github.com/TralahM/django-firebase-orm.git
+$ git clone https://github.com/sachnaror/django-firebase-orm
 $ cd django-firebase-orm
 ```
 
-# My New Repository
-# django-firebase-orm
